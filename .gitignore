@@ -1,3 +1,4 @@
 dump.txt
 .env
 node_modules
+yarn-error.log
