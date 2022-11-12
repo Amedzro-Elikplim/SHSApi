@@ -1,0 +1,8 @@
+{
+  "name": "SHS_Schools",
+  "version": "1.0.0",
+  "description": "Api of all the shs schools in Ghana",
+  "main": "index.js",
+  "author": "Emmanuel E. Amedzro",
+  "license": "MIT"
+}
